@@ -71,3 +71,6 @@ logs/
 # elpa #
 elpa
 
+ede-projects.el
+projectile-bookmarks.eld
+projectile.cache
